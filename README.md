@@ -68,6 +68,46 @@ Please add `system("pause");` when you display anything.
 
 * ### Bonus function:
     Each object automatically has a different color and be filled.
+  
+## Figure
+```
+./HW0 lab2A.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-1.png" width = '300'>
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-2.png" width = '300'>
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-3.png" width = '300'>
+</p>
+
+```
+./HW0 lab2B.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2B.png" width = '600'>
+</p>
+
+```
+./HW0 lab2C.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2C.png" width = '600'>
+</p>
+
+```
+./HW0 lab2D.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2D.png" width = '600'>
+</p>
+
+```
+./HW0 lab2E.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-1.png" width = '300'>
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-2.png" width = '300'>
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-3.png" width = '300'>
+</p>
 
 ## Libraries
 * ### C++
