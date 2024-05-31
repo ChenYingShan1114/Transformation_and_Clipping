@@ -74,39 +74,39 @@ Please add `system("pause");` when you display anything.
 ./HW0 lab2A.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-1.png">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-2.png">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-3.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-1.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-2.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2A-3.png">
 </p>
 
 ```
 ./HW0 lab2B.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2B.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2B.png">
 </p>
 
 ```
 ./HW0 lab2C.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2C.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2C.png">
 </p>
 
 ```
 ./HW0 lab2D.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2D.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2D.png">
 </p>
 
 ```
 ./HW0 lab2E.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-1.png"'>
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-2.png">
-    <img src="https://github.com/ChenYingShan1114/Transformation_and_clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-3.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-1.png"'>
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-2.png">
+    <img src="https://github.com/ChenYingShan1114/Transformation_and_Clipping/blob/1d105bb77043f5baf72e827239913bc2ebd21752/figure/lab2E-3.png">
 </p>
 
 ## Libraries
