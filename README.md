@@ -1,13 +1,13 @@
 
-# 3D Computer Graphics assignment ([Lab2](https://hackmd.io/5O2FIpo7RuCUEnjf0qvQiA?view
-))
+# 3D Computer Graphics assignment ([Lab2](https://hackmd.io/5O2FIpo7RuCUEnjf0qvQiA?view))
 ### Work requirements:
 1. There are many test data in the forder and many input commands in each test data. Please read the files and complete the following instructions.
 1. You can only use the function of drawing **points** in OpenGL (other functions such as line drawing cannot be used.
 1. Eigen or other outer libaries cannot be used.
 
 ## Environment
-`Linux distribution`: `Ubuntu 22.04`
+`Linux distribution`: `Ubuntu 22.04`<br>
+About how to build the enviroment on linux: [here](https://hackmd.io/3xPNjv6kRh2Ml6Ll7Nlw4A).
 
 ## Operating instructions
 * ### Comment:
