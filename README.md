@@ -1,5 +1,5 @@
 
-# 3D Computer Graphics assignment ([Lab2](https://hackmd.io/5O2FIpo7RuCUEnjf0qvQiA?view))
+# 3D Computer Graphics assignment ([Lab2](https://hackmd.io/5O2FIpo7RuCUEnjf0qvQiA?view)): Transformation and Clipping
 ### Work requirements:
 1. There are many test data in the forder and many input commands in each test data. Please read the files and complete the following instructions.
 1. You can only use the function of drawing **points** in OpenGL (other functions such as line drawing cannot be used.
